@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Angelica Romero"
 output: 
   html_document:
     number_sections: true
@@ -17,7 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+I attended Palmdale High School and graudated in 2020. Although the graduation was not what I thought it would be, my graduation ceremyn was special to me. I preferred my math classes over my English classes because I liked my math teachers better. My math teachers made the subjects easier to comprehend and made math seem less intimidating. Due to their teaching I was able to have A's and B's in my math classes. 
 
      
 
@@ -26,14 +26,14 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
+The computer I have at home is an HP computer. She is pretty old and doesn't run very well but she was the first computer I bought with my own money and she works well enough for me to perform simple tasks on it. I'd say my computer skills are a 4, where I know a little about how computers work but not enough to be fluent. Thankfully the internet connection where I live is reliable so I don't have to stress about getting assignments completed.   
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+I don not mind being called Angelica or by my nickname Angie.  
    
  
 
@@ -44,7 +44,7 @@ What name do you prefer to be called by your classmates and instructor, if your 
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  
+All I want from life is to be financially comfortable and to be able to provide for myself and my future family with no stress. To be honest, I'm not sure which class interests me, I just like learning things. I am working to get my sociology degree.  
    
  
 
@@ -55,7 +55,7 @@ What do you want to achieve in life?  What college subject do you think would be
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
 ### my answer     
-  
+ The only place I've travled to outside of the states would be Mexico. My family usually goes to visit distant relatives who live in Rosarito. I want to travel to Europe and visit Italy and Spain in the future. If I had to choose a military branch to get drafted in, it would be ab=n amry medic.
    
   
 
@@ -68,7 +68,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
  
 
 ### my answer     
-  
+I am re-taking Math 115 because I did not get a good grade during the first time I took the class. I want to obtain a B or higher but a C will help me with my academic goals.   
    
  
 
